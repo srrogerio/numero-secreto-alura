@@ -16,13 +16,17 @@
 
 - [Aplicação](#aplicação)
 
+- [Acesso ao projeto](#acesso)
+
 - [Time](#time)
 
 
 ## Sobre
 <p align="justify">
 🔖
-Esse projeto é utilizado nos cursos de lógica de programação da Alura. Foi desenvolvido durante os cursos de Git e GitHub.
+Esse projeto é utilizado nos cursos de lógica de programação da Alura. 
+
+Foi desenvolvido durante os cursos de Git e GitHub.
 
 Posteriormente foi atualizado com base em novos aprendizados do curso de lógica também da Alura.
 
@@ -50,7 +54,10 @@ Aplicado novos aprendizados sobre a importância de um arquivo README.
 </p>
 </div>
 
+## Acesso
 
+Você pode [acessar o código fonte do projeto clicando aqui !!!](https://github.com/srrogerio/numero-secreto-alura) 
+</br></br>
 # Time
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/33001620?v=4" width=115><br><sub>Gabrielle Ribeiro</sub>](https://github.com/gabrielle-ribeiro) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/522931?v=4" width=115><br><sub>Rodrigo Caneppele</sub>](https://github.com/rcaneppele) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/12056766?v=4" width=115><br><sub>Rogério Candido</sub>](https://github.com/srrogerio) |
