@@ -1,18 +1,55 @@
-# Jogo do número secreto
-
 <p align="center">
-   <img src="https://github.com/srrogerio/numero-secreto-alura/blob/main/img/logo-jogo-numero-secreto.png?raw=true"/>
+   <img width="300" height="300" alt="Logo Jogo Número Secreto" src="https://raw.githubusercontent.com/srrogerio/numero-secreto-alura/refs/heads/main/img/logo-jogo-numero-secreto.png"/>
+   <h1 align="center">Jogo do Número Secreto</h1>
 </p>
 
-<h2>🔖 Sobre</h2>
-<p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
+<p align="center">
+   <img src="https://img.shields.io/badge/estatus%20do%20projeto-terminado-blue?style=for-the-badge">
+</p>
 
-## 🚀 Tecnologias
+
+### Tópicos 
+
+- [Sobre](#sobre)
+
+- [Tecnologias](#tecnologias)
+
+- [Aplicação](#aplicação)
+
+- [Time](#time)
+
+
+## Sobre
+<p align="justify">
+🔖
+Esse projeto é utilizado nos cursos de lógica de programação da Alura. Foi desenvolvido durante os cursos de Git e GitHub.
+
+Posteriormente foi atualizado com base em novos aprendizados do curso de lógica também da Alura.
+
+Aplicado novos aprendizados sobre a importância de um arquivo README.
+
+</p>
+
+<p align="center">
+<img width="500" height="500" alt="Jogo Número Secreto" src="https://raw.githubusercontent.com/srrogerio/numero-secreto-alura/refs/heads/main/img/banner-jogo-numero-secreto.png">
+</p>
+
+## Tecnologias
 <div>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
+
+## Aplicação
+
+<div align="center">
+
+<p align="center">
+<img src="Logo Jogo Número Secreto" src="https://raw.githubusercontent.com/srrogerio/numero-secreto-alura/refs/heads/main/img/jogo-numero-secreto.png">
+</p>
+</div>
+
 
 # Time
 
