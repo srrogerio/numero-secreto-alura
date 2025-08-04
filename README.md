@@ -1,4 +1,8 @@
-<h1>Jogo do número secreto</h1>
+# Jogo do número secreto
+
+<p align="center">
+   <img src="https://github.com/srrogerio/numero-secreto-alura/blob/main/img/logo-jogo-numero-secreto.png?raw=true"/>
+</p>
 
 <h2>🔖 Sobre</h2>
 <p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
