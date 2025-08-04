@@ -46,7 +46,7 @@ Aplicado novos aprendizados sobre a importância de um arquivo README.
 <div align="center">
 
 <p align="center">
-<img src="Logo Jogo Número Secreto" src="https://raw.githubusercontent.com/srrogerio/numero-secreto-alura/refs/heads/main/img/jogo-numero-secreto.png">
+<img src="https://raw.githubusercontent.com/srrogerio/numero-secreto-alura/refs/heads/main/img/jogo-numero-secreto.png">
 </p>
 </div>
 
