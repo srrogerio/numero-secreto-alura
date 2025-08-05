@@ -57,8 +57,7 @@ Aplicado novos aprendizados sobre a importância de um arquivo README.
 ## Acesso
 
 Você pode acessar o código fonte do projeto [clicando aqui !!!](https://github.com/srrogerio/numero-secreto-alura) 
-</br> ou </br>
-
+</br> </br>  ou 
 <p align="left">
    <a href="https://srrogerio.github.io/numero-secreto-alura/"  target="_blank">Clique aqui </a>para testar o projeto.
 
